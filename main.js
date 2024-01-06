@@ -2,7 +2,7 @@ Webcam.set({
     width:350,
     height:300,
     image_format:'png',
-    png_quality:90
+    png_quality:720
 });
 console.log("Setting up of webcam sucessfully completed.");
 
